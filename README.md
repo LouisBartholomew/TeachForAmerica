@@ -12,6 +12,11 @@ The following visualization shows the total number of FRL students in the Ionia 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8677995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+The following shows the % of FRL students across the Ionia ISD
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/8677995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 The following shows the total number of FRL students across the Eastern UP ISD
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8678159"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
