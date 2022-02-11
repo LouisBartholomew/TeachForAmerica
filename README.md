@@ -7,6 +7,7 @@ The following data shows a breakdown by school building for the Ionia and Easter
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8677050"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 The following visualization shows the total number of FRL students in the Ionia ISD
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8677995"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
